@@ -29,3 +29,18 @@ OpenAI APIの基礎を学ぶためのハンズオン教材です。ステップ�
 
 [【2023年12月最新】Whisper APIを使って英文をリスニング問題にする](https://qiita.com/Isaka-code/items/17356510174e62c7754e)
 - **キーワード**：テキスト生成、音声合成
+
+
+## LangChain関連の記事
+
+[【祝・Gemini API解禁】LangChainからGeminiを使う方法を詳しく解説する【公式Quickstart】](https://qiita.com/Isaka-code/items/fd897f8745b847e15164)
+
+[【2023年12月最新】ChatGPT・LangChain関連の技術書まとめ（全10冊＋α）](https://qiita.com/Isaka-code/items/7a9f19aef6284b7789ed)
+
+[【2023年12月最新】LangChainを用いてPDFから演習問題を抽出する方法【RAG】](https://qiita.com/Isaka-code/items/f45a9a8288710aa807d9)
+
+[【2023年12月最新】LangChainを使用した質問応答エージェントの作成【LCEL・FAISS】](https://qiita.com/Isaka-code/items/fcc3400adcb51d131fe8)
+
+## 番外編
+
+[『書き込み式Kaggle攻略法』Powered by GPT-4 Code Interpreter](https://qiita.com/Isaka-code/items/3dc1f31f4e663afcf8cb)
